@@ -30,7 +30,7 @@ nginx安装请参考附录
 执行命令：
 
 ```shell
-git clone https://github.com/gongdaxia/fabric-manager-web.git
+git clone https://github.com/burningcpu/fabric-manager-web.git
 ```
 
 ```shell
